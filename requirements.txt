@@ -1,0 +1,9 @@
+python-dotenv
+google-generativeai
+gradio
+langchain
+langchain-google-genai
+langchain-community
+pypdf
+chromadb
+sentence-transformers
